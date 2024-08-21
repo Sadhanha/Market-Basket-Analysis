@@ -1,5 +1,5 @@
 ### Overview 
-This project focuses on performing market basket analysis using association rule mining to discover patterns in transactional data. 
+Performed market basket analysis using Association Rule Mining to discover patterns/relationships between items that are frequently bought together, using transactional data.
 
 ### Methodology
 
